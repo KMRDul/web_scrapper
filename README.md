@@ -1,2 +1,2 @@
-# web_scrapper
-app for web scrapping
+# Simple Web Scraper
+app for web scraping
